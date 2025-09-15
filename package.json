@@ -1,0 +1,19 @@
+{
+  "name": "throttle-now",
+  "version": "1.0.0",
+  "description": "A tiny throttle utility function",
+  "main": "index.js",
+  "type": "module",
+  "author": "Inkersal Mahendran",
+  "license": "MIT",
+  "keywords": ["throttle", "utility", "javascript", "limit", "rate"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inkersal501/throttle-now.git"
+  }, 
+  "homepage": "https://github.com/inkersal501/throttle-now#readme"
+  
+  
+  
+  
+}
